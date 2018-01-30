@@ -1,0 +1,784 @@
+~원카드를 시작합니다~	※현재 카드 7로 모양변환은 안됨. 카드 먹기는 0번
+턴:0
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ◆   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K]
+카드 번호를 입력하세요: 0
+-1
+턴:1
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ◆   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+1의payCard : diamond J
+현재 CardTop: diamond 4
+기존 카드 탑 :diamond 4
+이후 카드 탑 :diamond J
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:3
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│J      │
+	│   ◆   │
+	│      J│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+1의payCard : diamond Q
+현재 CardTop: diamond J
+기존 카드 탑 :diamond J
+이후 카드 탑 :diamond Q
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:4
+ ((((
+ (^▽^) ㅎ^^
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ 
+	┌───────┐
+	│Q      │
+	│   ◆   │
+	│      Q│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+카드 번호를 입력하세요: 3
+2
+0의payCard : clover Q
+현재 CardTop: diamond Q
+clover Q
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 0
+-1
+턴:5
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ 
+	┌───────┐
+	│Q      │
+	│   ◆   │
+	│      Q│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4][1 ◆ 1]
+1의payCard : clover K
+현재 CardTop: diamond Q
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond Q
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 5
+현재 CardTop: diamond Q
+기존 카드 탑 :diamond Q
+이후 카드 탑 :diamond 5
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:6
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ 
+└─┘ └─┘ 
+	┌───────┐
+	│5      │
+	│   ◆   │
+	│      5│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4][1 ◆ 1]
+카드 번호를 입력하세요: 7
+6
+0의payCard : diamond 1
+현재 CardTop: diamond 5
+기존 카드 탑 :diamond 5
+이후 카드 탑 :diamond 1
+case 일반 에서 통과됨
+0
+턴:7
+ ((((
+ (^▽^) ㅎ^^
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ 
+└─┘ └─┘ 
+	┌───────┐
+	│1      │
+	│   ◆   │
+	│      1│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+1의payCard : clover K
+현재 CardTop: diamond 1
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 1
+컴퓨터의 payCard: heart 7
+컴퓨터 카드먹음
+현재 탑카드:diamond 1
+턴:9
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│1      │
+	│   ◆   │
+	│      1│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+1의payCard : clover K
+현재 CardTop: diamond 1
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 1
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: diamond 1
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: diamond 1
+컴퓨터의 payCard: spade 8
+1의payCard : diamond 10
+현재 CardTop: diamond 1
+기존 카드 탑 :diamond 1
+이후 카드 탑 :diamond 10
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:10
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│10      │
+	│   ◆   │
+	│      10│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+카드 번호를 입력하세요: 0
+-1
+턴:11
+ ((((
+ (^▽^) ㅎ^^
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│10      │
+	│   ◆   │
+	│      10│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4][K ◆ K]
+1의payCard : clover K
+현재 CardTop: diamond 10
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 10
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: diamond 10
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: diamond 10
+컴퓨터의 payCard: spade 8
+컴퓨터 카드먹음
+현재 탑카드:diamond 10
+턴:12
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│10      │
+	│   ◆   │
+	│      10│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4][K ◆ K]
+카드 번호를 입력하세요: 7
+6
+0의payCard : diamond K
+현재 CardTop: diamond 10
+기존 카드 탑 :diamond 10
+이후 카드 탑 :diamond K
+case 일반 에서 통과됨
+0
+턴:14
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│K      │
+	│   ◆   │
+	│      K│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][4 ♥ 4]
+카드 번호를 입력하세요: 5
+4
+0의payCard : heart K
+현재 CardTop: diamond K
+heart K
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 6
+5
+0의payCard : heart 4
+현재 CardTop: diamond K
+기존 카드 탑 :diamond K
+이후 카드 탑 :heart 4
+case 일반 에서 통과됨
+0
+턴:15
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ♥   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K]
+1의payCard : clover K
+현재 CardTop: heart 4
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: heart 4
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: heart 4
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: heart 4
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: heart 4
+컴퓨터의 payCard: heart 3
+컴퓨터 카드먹음
+현재 탑카드:heart 4
+턴:16
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ♥   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K]
+카드 번호를 입력하세요: 5
+4
+0의payCard : heart K
+현재 CardTop: heart 4
+heart K
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 4
+3
+0의payCard : heart 6
+현재 CardTop: heart 4
+heart 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 0
+-1
+턴:17
+ ((((
+ (^▽^) ㅎ^^
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ♥   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+1의payCard : clover K
+현재 CardTop: heart 4
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: heart 4
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: heart 4
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: heart 4
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: heart 4
+컴퓨터의 payCard: heart 3
+1의payCard : diamond 4
+현재 CardTop: heart 4
+기존 카드 탑 :heart 4
+이후 카드 탑 :diamond 4
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:18
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ◆   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+카드 번호를 입력하세요: 0
+-1
+턴:19
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ◆   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1][2 ◆ 2]
+1의payCard : clover K
+현재 CardTop: diamond 4
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 4
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: diamond 4
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: diamond 4
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: diamond 4
+컴퓨터의 payCard: heart 3
+컴퓨터 카드먹음
+현재 탑카드:diamond 4
+턴:20
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│4      │
+	│   ◆   │
+	│      4│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1][2 ◆ 2]
+카드 번호를 입력하세요: 4
+3
+0의payCard : heart 6
+현재 CardTop: diamond 4
+heart 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 4
+3
+0의payCard : heart 6
+현재 CardTop: diamond 4
+heart 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 3
+2
+0의payCard : clover Q
+현재 CardTop: diamond 4
+clover Q
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 7
+6
+0의payCard : diamond 2
+현재 CardTop: diamond 4
+기존 카드 탑 :diamond 4
+이후 카드 탑 :diamond 2
+case 일반 에서 통과됨
+0
+턴:21
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ◆   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+1의payCard : clover K
+현재 CardTop: diamond 2
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 2
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: diamond 2
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: diamond 2
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: diamond 2
+컴퓨터의 payCard: heart 3
+1의payCard : diamond 8
+현재 CardTop: diamond 2
+컴퓨터의 payCard: diamond 8
+컴퓨터 카드먹음
+현재 탑카드:diamond 2
+턴:23
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ◆   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+1의payCard : clover K
+현재 CardTop: diamond 2
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: diamond 2
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: diamond 2
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: diamond 2
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: diamond 2
+컴퓨터의 payCard: heart 3
+1의payCard : diamond 8
+현재 CardTop: diamond 2
+기존 카드 탑 :diamond 2
+이후 카드 탑 :diamond 8
+case 일반 에서 통과됨
+컴퓨터의 payCard: 0
+턴:24
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│8      │
+	│   ◆   │
+	│      8│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[B ♬ B][3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+카드 번호를 입력하세요: 1
+0
+0의payCard : jocker black
+현재 CardTop: diamond 8
+기존 카드 탑 :diamond 8
+이후 카드 탑 :jocker black
+case 일반 에서 통과됨
+0
+턴:25
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│B      │
+	│   ♬   │
+	│      B│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+1의payCard : clover K
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: jocker black
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 3
+1의payCard : clover 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 3
+1의payCard : clover 5
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 5
+컴퓨터 카드먹음
+현재 탑카드:jocker black
+턴:27
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│B      │
+	│   ♬   │
+	│      B│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+1의payCard : clover K
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: jocker black
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 3
+1의payCard : clover 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 3
+1의payCard : clover 5
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 5
+1의payCard : clover J
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover J
+1의payCard : heart 10
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 10
+1의payCard : clover 9
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 9
+1의payCard : heart 2
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 2
+1의payCard : heart 9
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 9
+컴퓨터 카드먹음
+현재 탑카드:jocker black
+턴:28
+ ((((
+ (^▽^)진다고 울기 없기~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│B      │
+	│   ♬   │
+	│      B│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1]
+카드 번호를 입력하세요: 3
+2
+0의payCard : heart 6
+현재 CardTop: jocker black
+heart 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 2
+1
+0의payCard : clover Q
+현재 CardTop: jocker black
+clover Q
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 1
+0
+0의payCard : spade 3
+현재 CardTop: jocker black
+spade 3
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 5
+4
+0의payCard : spade 1
+현재 CardTop: jocker black
+spade 1
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 4
+3
+0의payCard : heart K
+현재 CardTop: jocker black
+heart K
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 0
+-1
+턴:29
+ ((((
+ (^▽^) ㅎ^^
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│B      │
+	│   ♬   │
+	│      B│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1][Q ♠ Q]
+1의payCard : clover K
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover K
+1의payCard : heart 7
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 7
+1의payCard : clover 6
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 6
+1의payCard : spade 8
+현재 CardTop: jocker black
+컴퓨터의 payCard: spade 8
+1의payCard : heart 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 3
+1의payCard : clover 3
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 3
+1의payCard : clover 5
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 5
+1의payCard : clover J
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover J
+1의payCard : heart 10
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 10
+1의payCard : clover 9
+현재 CardTop: jocker black
+컴퓨터의 payCard: clover 9
+1의payCard : heart 2
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 2
+1의payCard : heart 9
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 9
+1의payCard : heart 8
+현재 CardTop: jocker black
+컴퓨터의 payCard: heart 8
+컴퓨터 카드먹음
+현재 탑카드:jocker black
+턴:30
+ ((((
+ (^▽^)신난다~
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│B      │
+	│   ♬   │
+	│      B│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[3 ♠ 3][Q ♣ Q][6 ♥ 6][K ♥ K][1 ♠ 1][Q ♠ Q]
+카드 번호를 입력하세요: 2
+1
+0의payCard : clover Q
+현재 CardTop: jocker black
+clover Q
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 

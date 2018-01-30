@@ -1,0 +1,423 @@
+~원카드를 시작합니다~	※현재 카드 7로 모양변환은 안됨. 카드 먹기는 0번
+턴:0
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│8      │
+	│   ♣   │
+	│      8│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[2 ♣ 2][1 ♥ 1][6 ♠ 6][10 ♣ 10][2 ◆ 2]
+카드 번호를 입력하세요: 4
+3
+0의payCard : clover 10
+기존 카드 탑 :clover 8
+이후 카드 탑 :clover 10
+0
+턴:1
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│10      │
+	│   ♣   │
+	│      10│
+	└───────┘
+카드번호:
+1      2      3      4      
+[2 ♣ 2][1 ♥ 1][6 ♠ 6][2 ◆ 2]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 8
+기존 카드 탑 :clover 10
+이후 카드 탑 :heart 8
+컴퓨터의 payCard: 0
+턴:2
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│8      │
+	│   ♥   │
+	│      8│
+	└───────┘
+카드번호:
+1      2      3      4      
+[2 ♣ 2][1 ♥ 1][6 ♠ 6][2 ◆ 2]
+카드 번호를 입력하세요: 0
+-1
+턴:3
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│8      │
+	│   ♥   │
+	│      8│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[2 ♣ 2][1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : clover 3
+기존 카드 탑 :heart 8
+이후 카드 탑 :clover 3
+컴퓨터의 payCard: 0
+턴:4
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ 
+	┌───────┐
+	│3      │
+	│   ♣   │
+	│      3│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[2 ♣ 2][1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5]
+카드 번호를 입력하세요: 1
+0
+0의payCard : clover 2
+기존 카드 탑 :clover 3
+이후 카드 탑 :clover 2
+0
+턴:5
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+컴퓨터 카드먹음
+턴:7
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+1의payCard : diamond 7
+컴퓨터의 payCard: diamond 7
+1의payCard : heart K
+컴퓨터의 payCard: heart K
+컴퓨터 카드먹음
+턴:8
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5]
+카드 번호를 입력하세요: 3
+2
+0의payCard : diamond 2
+diamond 2
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 2
+1
+0의payCard : spade 6
+spade 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 1
+0
+0의payCard : heart 1
+heart 1
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 0
+-1
+턴:9
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+1의payCard : diamond 7
+컴퓨터의 payCard: diamond 7
+1의payCard : heart K
+컴퓨터의 payCard: heart K
+1의payCard : diamond Q
+컴퓨터의 payCard: diamond Q
+컴퓨터 카드먹음
+턴:10
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5]
+카드 번호를 입력하세요: 0
+-1
+턴:11
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+1의payCard : diamond 7
+컴퓨터의 payCard: diamond 7
+1의payCard : heart K
+컴퓨터의 payCard: heart K
+1의payCard : diamond Q
+컴퓨터의 payCard: diamond Q
+1의payCard : spade 3
+컴퓨터의 payCard: spade 3
+컴퓨터 카드먹음
+턴:12
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J]
+카드 번호를 입력하세요: 3
+2
+0의payCard : diamond 2
+diamond 2
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 0
+-1
+턴:13
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J][10 ◆ 10]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+1의payCard : diamond 7
+컴퓨터의 payCard: diamond 7
+1의payCard : heart K
+컴퓨터의 payCard: heart K
+1의payCard : diamond Q
+컴퓨터의 payCard: diamond Q
+1의payCard : spade 3
+컴퓨터의 payCard: spade 3
+1의payCard : heart J
+컴퓨터의 payCard: heart J
+컴퓨터 카드먹음
+턴:14
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J][10 ◆ 10]
+카드 번호를 입력하세요: 0
+-1
+턴:15
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│2      │
+	│   ♣   │
+	│      2│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      8      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J][10 ◆ 10][9 ♥ 9]
+1의payCard : spade J
+컴퓨터의 payCard: spade J
+1의payCard : heart 7
+컴퓨터의 payCard: heart 7
+1의payCard : diamond 1
+컴퓨터의 payCard: diamond 1
+1의payCard : diamond 7
+컴퓨터의 payCard: diamond 7
+1의payCard : heart K
+컴퓨터의 payCard: heart K
+1의payCard : diamond Q
+컴퓨터의 payCard: diamond Q
+1의payCard : spade 3
+컴퓨터의 payCard: spade 3
+1의payCard : heart J
+컴퓨터의 payCard: heart J
+1의payCard : clover 7
+기존 카드 탑 :clover 2
+이후 카드 탑 :clover 7
+컴퓨터의 payCard: 0
+턴:16
+ ((((
+ (^▽^)파이팅^^ 열심히해봐
+/(   )>
+￣￣￣￣￣￣￣￣￣￣￣
+┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ ┌─┐ 
+└─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ └─┘ 
+	┌───────┐
+	│7      │
+	│   ♣   │
+	│      7│
+	└───────┘
+카드번호:
+1      2      3      4      5      6      7      8      
+[1 ♥ 1][6 ♠ 6][2 ◆ 2][5 ♥ 5][5 ♠ 5][J ◆ J][10 ◆ 10][9 ♥ 9]
+카드 번호를 입력하세요: 5
+4
+0의payCard : spade 5
+spade 5
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 2
+1
+0의payCard : spade 6
+spade 6
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 1
+0
+0의payCard : heart 1
+heart 1
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 5
+4
+0의payCard : spade 5
+spade 5
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 6
+5
+0의payCard : diamond J
+diamond J
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 7
+6
+0의payCard : diamond 10
+diamond 10
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 8
+7
+0의payCard : heart 9
+heart 9
+이 카드는 낼 수 없음^^;;
+카드 번호를 입력하세요: 9
+8
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.sist.onecard.Players.cardPay(CardPlayerTest.java:14)
+	at com.sist.onecard.Players.userCardPay(CardPlayerTest.java:146)
+	at com.sist.onecard.CardPrintTest.main(CardPrintTest.java:136)
